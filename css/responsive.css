@@ -16,4 +16,5 @@
   }
   h2 #logo { font-size: 2.2em; }
   #social { top: 72px; }
+  .col- { column-count: 2;}
 }
